@@ -7,7 +7,6 @@ h1{
   background: url(h_img.jpg)no-repeat center;
   background-size: cover;
   height: 500px;
-  position: relative;
   text-align: center;
   color: aliceblue;
   margin: 30px 50px 75px 100px;
@@ -47,7 +46,7 @@ h1{
 #portfolio {
   background: none;
   background-size: cover;
-  height: 350px;
+  height: 400px;
   width: 800px; 
   text-align: center;
   margin: 25px 50px 25px 230px;
@@ -65,4 +64,8 @@ h1{
 #icon{
   height:120px;
   width: 150px;
+}
+.page-offset{
+  position: relative;
+  top: 30%;
 }
