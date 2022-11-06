@@ -6,7 +6,7 @@ h1{
   
   background: url(h_img.jpg)no-repeat center;
   background-size: cover;
-  height: 500px;
+  height: 600px;
   text-align: center;
   color: aliceblue;
   margin: 30px 50px 75px 100px;
@@ -39,7 +39,7 @@ h1{
 #what-we-do {
   background: none;
   background-size: cover;
-  height: 100px;
+  height: 150px;
   text-align: center;
   margin: 25px 50px 25px 50px;
 }
@@ -67,5 +67,5 @@ h1{
 }
 .page-offset{
   position: relative;
-  top: 30%;
+  top: 25%;
 }
