@@ -1,5 +1,5 @@
-#first_page {
-    background-image: url(images\backgrounds\h_img.jpg);
+body {
+   background-image: url("images\backgrounds\h_img.jpg");
     background-repeat: no-repeat, repeat;
   }
   
