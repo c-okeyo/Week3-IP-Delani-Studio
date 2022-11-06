@@ -1,27 +1,61 @@
 #first-page {
-  border: 1px solid rgb(203, 23, 23);
+  
   background: url(h_img.jpg)no-repeat center;
   background-size: cover;
-  height: 1000px;
+  height: 2400px;
   position: relative;
   text-align: center;
- 
+  color: aliceblue;
+  margin: 25px 50px 75px 100px;
+
+}
+
+
+#about-us {
+  
+  background: none;
+  background-size: cover;
+  /* height: 2400px; */
+  position: relative;
+  text-align: center;
+  font-size: 60px;
+  margin: 25px 50px 75px 100px;
+
+
 }
 
 #services {
-  border: 1px solid rgb(203, 23, 23);
+  margin: 25px 50px 75px 100px;
   background: url(s_image.jpg)no-repeat center;
   background-size: cover;
   height: 400px;
-  position: relative;
   text-align: center;
+  margin: 25px 50px 75px 100px;
  
 }
+#what-we-d0 {
+  margin: 25px 50px 75px 100px;
+  background: none;
+  background-size: cover;
+  height: 400px;
+  text-align: center;
+  margin: 25px 50px 75px 100px;
+}
+
+#portfolio {
+  margin: 25px 50px 75px 100px;
+  background: none;
+  background-size: cover;
+  height: 400px;
+  text-align: center;
+  margin: 25px 50px 75px 100px;
+}
+
 #contact_us {
-  border: 1px solid rgb(203, 23, 23);
+  margin: 25px 50px 75px 100px;
   background: url(c_image.jpg)no-repeat center;
   background-size: cover;
-  height: 1000px;
+  height: 1600px;
   position: relative;
   text-align: center;
  
