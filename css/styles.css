@@ -1,12 +1,12 @@
 h1{
-  font-size: 60px;
+  font-size: 20px;
   text-transform: uppercase;
 }
 #first-page {
   
   background: url(h_img.jpg)no-repeat center;
   background-size: cover;
-  height: 1800px;
+  height: 500px;
   position: relative;
   text-align: center;
   color: aliceblue;
@@ -14,57 +14,55 @@ h1{
   text-transform: uppercase;
 
 }
-
-
 #about-us {
   
   background: none;
   background-size: cover;
-  /* height: 2400px; */
   position: relative;
   text-align: center;
-  font-size: 50px;
+  font-size: 10px;
   margin: 25px 50px 75px 100px;
 
 
 }
-
 #services {
 
   margin: 25px 50px 75px 100px;
   background: url(s_image.jpg)no-repeat center;
   background-size: cover;
-  height: 1400px;
+  height: 300px;
   text-align: center;
   margin: 25px 50px 75px 100px;
   color: aliceblue;
-  font-size: 50px;
+  font-size: 10px;
  
 }
 #what-we-do {
-  margin: 25px 50px 75px 100px;
   background: none;
   background-size: cover;
-  height: 400px;
+  height: 100px;
   text-align: center;
-  margin: 25px 50px 75px 400px;
+  margin: 25px 50px 25px 50px;
 }
-
 #portfolio {
   background: none;
   background-size: cover;
-  height: 1000px;
-  width: 2000px;
+  height: 350px;
+  width: 800px; 
   text-align: center;
-  margin: 25px 50px 50px 1000px;
+  margin: 25px 50px 25px 230px;
 }
-
 #contact_us {
-  margin: 25px 250px 75px 150px;
+  
   background: url(c_image.jpg)no-repeat center;
   background-size: cover;
-  height: 1500px;
-  position: relative;
+  height: 500px;
+  /* position: relative; */
   text-align: center;
+  margin: 0px 50px 25px 40px; 
  
+}
+#icon{
+  height:120px;
+  width: 150px;
 }
