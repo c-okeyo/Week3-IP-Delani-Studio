@@ -1,5 +1,5 @@
 h1{
-  font-size: 100px;
+  font-size: 60px;
   text-transform: uppercase;
 }
 #first-page {
@@ -18,25 +18,27 @@ h1{
 
 #about-us {
   
-  
   background: none;
   background-size: cover;
   /* height: 2400px; */
   position: relative;
   text-align: center;
-  font-size: 60px;
+  font-size: 50px;
   margin: 25px 50px 75px 100px;
 
 
 }
 
 #services {
+
   margin: 25px 50px 75px 100px;
   background: url(s_image.jpg)no-repeat center;
   background-size: cover;
   height: 1400px;
   text-align: center;
   margin: 25px 50px 75px 100px;
+  color: aliceblue;
+  font-size: 50px;
  
 }
 #what-we-do {
@@ -45,23 +47,23 @@ h1{
   background-size: cover;
   height: 400px;
   text-align: center;
-  margin: 25px 50px 75px 100px;
+  margin: 25px 50px 75px 400px;
 }
 
 #portfolio {
   background: none;
   background-size: cover;
   height: 1000px;
-  width: 1600px;
+  width: 2000px;
   text-align: center;
-  margin: 25px 50px 75px 1000px;
+  margin: 25px 50px 50px 1000px;
 }
 
 #contact_us {
-  margin: 25px 50px 75px 100px;
+  margin: 25px 250px 75px 150px;
   background: url(c_image.jpg)no-repeat center;
   background-size: cover;
-  height: 1600px;
+  height: 1500px;
   position: relative;
   text-align: center;
  
