@@ -1,5 +1,5 @@
 h1{
-  font-size: 20px;
+  font-size: 25px;
   text-transform: uppercase;
 }
 #first-page {
@@ -19,21 +19,20 @@ h1{
   background-size: cover;
   position: relative;
   text-align: center;
-  font-size: 10px;
+  font-size: 15px;
   margin: 25px 50px 75px 100px;
 
 
 }
 #services {
 
-  margin: 25px 50px 75px 100px;
+  margin: 25px 50px 25px 40px;
   background: url(s_image.jpg)no-repeat center;
   background-size: cover;
-  height: 300px;
+  height: 400px;
   text-align: center;
-  margin: 25px 50px 75px 100px;
   color: aliceblue;
-  font-size: 10px;
+  font-size: 15px;
  
 }
 #what-we-do {
@@ -69,3 +68,15 @@ h1{
   position: relative;
   top: 25%;
 }
+#contact-pg-offset{
+  position: relative;
+  top: 10%;
+  color: aliceblue;
+  
+}
+
+#icon-loaction{
+  position: relative;
+  bottom: -50%;
+ }
+
