@@ -1,6 +1,28 @@
- /* body {
-   background-image: url(images\backgrounds\h_img.jpg);
-   background-repeat: no-repeat, repeat;
-   }  */
-  
+#first-page {
+  border: 1px solid rgb(203, 23, 23);
+  background: url(h_img.jpg)no-repeat center;
+  background-size: cover;
+  height: 1000px;
+  position: relative;
+  text-align: center;
+ 
+}
 
+#services {
+  border: 1px solid rgb(203, 23, 23);
+  background: url(s_image.jpg)no-repeat center;
+  background-size: cover;
+  height: 400px;
+  position: relative;
+  text-align: center;
+ 
+}
+#contact_us {
+  border: 1px solid rgb(203, 23, 23);
+  background: url(c_image.jpg)no-repeat center;
+  background-size: cover;
+  height: 1000px;
+  position: relative;
+  text-align: center;
+ 
+}
