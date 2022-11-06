@@ -1,12 +1,12 @@
 h1{
-  font-size: 80px;
+  font-size: 100px;
   text-transform: uppercase;
 }
 #first-page {
   
   background: url(h_img.jpg)no-repeat center;
   background-size: cover;
-  height: 2400px;
+  height: 1800px;
   position: relative;
   text-align: center;
   color: aliceblue;
@@ -49,12 +49,12 @@ h1{
 }
 
 #portfolio {
-  margin: 25px 50px 75px 100px;
   background: none;
   background-size: cover;
-  height: 400px;
+  height: 1000px;
+  width: 1600px;
   text-align: center;
-  margin: 25px 50px 75px 100px;
+  margin: 25px 50px 75px 1000px;
 }
 
 #contact_us {
