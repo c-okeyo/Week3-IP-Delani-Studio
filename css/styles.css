@@ -1,3 +1,7 @@
+h1{
+  font-size: 80px;
+  text-transform: uppercase;
+}
 #first-page {
   
   background: url(h_img.jpg)no-repeat center;
@@ -6,12 +10,14 @@
   position: relative;
   text-align: center;
   color: aliceblue;
-  margin: 25px 50px 75px 100px;
+  margin: 30px 50px 75px 100px;
+  text-transform: uppercase;
 
 }
 
 
 #about-us {
+  
   
   background: none;
   background-size: cover;
@@ -28,12 +34,12 @@
   margin: 25px 50px 75px 100px;
   background: url(s_image.jpg)no-repeat center;
   background-size: cover;
-  height: 400px;
+  height: 1400px;
   text-align: center;
   margin: 25px 50px 75px 100px;
  
 }
-#what-we-d0 {
+#what-we-do {
   margin: 25px 50px 75px 100px;
   background: none;
   background-size: cover;
