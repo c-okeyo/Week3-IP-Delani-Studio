@@ -129,24 +129,31 @@
                 <div id="identity" class="row">
                     <div id="name-form" class="col-md-6">
                         <div class="form-group">
-                            <input id="name" class="form-control" type="text" value="Name ...">
+                            <input id="name" class="form-control" type="text" value="Name ..."
+                            onfocus="this.value = this.value=='Name ...'?'':this.value;"
+                            onblur="this.value = this.value==''?'Name ...':this.value;">
                         </div>
                     </div>
                     <div id="email-form" class="col-md-6">
                         <div class="form-group">
-                            <input id="email" class="form-control" type="text" value="Email ...">
+                              <input id="email" class="form-control" type="text" value="Email ..."
+                                onfocus="this.value = this.value=='Email ...'?'':this.value;"
+                                onblur="this.value = this.value==''?'Email ...':this.value;">
                         </div>
                     </div>
                 </div>
                 <div id="message-form" class="row">
                     <div class="form-group">
-                        <input id="message-form" class="form-control" type="text" value="Your message here ...">
+                        <input id="message-form" class="form-control" type="text" value="Your message here ..."
+                        onfocus="this.value = this.value=='Your message here ...'?'':this.value;"
+                        onblur="this.value = this.value==''?'Your message here ...':this.value;">
+                            
                     </div>
                 </div>
                 <button type="submit" class="btn">submit</button>
             </form>
         </div>
-       
+
     </div>
     <div id=feedback>
         <p>
