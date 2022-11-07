@@ -9,7 +9,7 @@ h1{
   height: 600px;
   text-align: center;
   color: aliceblue;
-  margin: 25px 50px 25px 40px;
+  margin: 25px 50px 25px 30px;
   text-transform: uppercase;
 
 }
@@ -20,7 +20,7 @@ h1{
   position: relative;
   text-align: center;
   font-size: 15px;
-  margin: 25px 50px 75px 100px;
+  margin: 25px 50px 75px 30px;
 
 
 }
