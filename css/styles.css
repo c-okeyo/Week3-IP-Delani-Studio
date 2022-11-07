@@ -42,6 +42,9 @@ h1{
   text-align: center;
   margin: 25px 50px 25px 50px;
 }
+#what-we-do-description {
+  display: none;
+}
 #portfolio {
   background: none;
   background-size: cover;
@@ -54,7 +57,7 @@ h1{
   
   background: url(c_image.jpg)no-repeat center;
   background-size: cover;
-  height: 500px;
+  height: 450px;
   /* position: relative; */
   text-align: center;
   margin: 0px 50px 25px 40px; 
