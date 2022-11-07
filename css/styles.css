@@ -2,6 +2,7 @@ h1 {
   font-size: 25px;
   text-transform: uppercase;
 }
+
 #first-page {
 
   background: url(h_img.jpg)no-repeat center;
@@ -13,6 +14,7 @@ h1 {
   text-transform: uppercase;
 
 }
+
 #about-us {
 
   background: none;
@@ -24,6 +26,7 @@ h1 {
 
 
 }
+
 #services {
 
   margin: 25px 50px 25px 40px;
@@ -35,6 +38,7 @@ h1 {
   font-size: 15px;
 
 }
+
 #what-we-do {
   background: none;
   background-size: cover;
@@ -42,6 +46,7 @@ h1 {
   text-align: center;
   margin: 25px 50px 25px 50px;
 }
+
 #portfolio {
   background: none;
   background-size: cover;
@@ -50,6 +55,7 @@ h1 {
   text-align: center;
   margin: 25px 50px 25px 230px;
 }
+
 #contact-us {
 
   background: url(c_image.jpg)no-repeat center;
@@ -60,10 +66,12 @@ h1 {
   margin: 0px 50px 25px 40px;
 
 }
+
 #icon {
   height: 120px;
   width: 150px;
 }
+
 .page-offset {
   position: relative;
   top: 25%;
@@ -75,19 +83,32 @@ h1 {
   color: aliceblue;
 
 }
+
 #icon-loaction {
   position: relative;
   bottom: -50%;
 }
+
 #design {
   display: none;
 }
+
 #development {
   display: none;
 }
+
 #product-management {
   display: none;
 }
-#what-we-do:hover img{
+
+#what-we-do:hover img {
   cursor: pointer;
+}
+
+input[type="text"] {
+  color: white;
+  background: rgba(0, 0, 0, 0);
+  border: white;
+  outline: none;
+  border-style: solid
 }

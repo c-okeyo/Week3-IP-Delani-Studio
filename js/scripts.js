@@ -1,14 +1,15 @@
 $(document).ready(function () {
   $("#design-icon").click(function () {
-    // $removeClass();
+    //  $().removeClass();
     $("#design").show();
+    
   });
   $("#dev-icon").click(function () {
     // $removeClass();
     $("#development").show();
   });
   $("#product-icon").click(function () {
-    // $removeClass();
+    // $("#development").removeClass();
     $("#product-management").show();
   });
 });
