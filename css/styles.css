@@ -111,10 +111,17 @@ input[type="text"] {
 }
 #Social_icons {
   height: 30px;
-  width: 500px;
+  width:200px;
 } 
 
  #Social_icon {
-  height: 30px;
-  width: 20px;
+  height: 10px;
+  width: 10px;
+}
+
+#copyright {
+  text-align: center;
+  font-size: smaller;
+  line-height: 0px;
+  text-transform: uppercase;
 }
