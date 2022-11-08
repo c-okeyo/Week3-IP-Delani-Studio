@@ -109,3 +109,12 @@ input[type="text"] {
     background-color:#da2626;
     transition: 0.7s;
 }
+#Social_icons {
+  height: 30px;
+  width: 500px;
+} 
+
+ #Social_icon {
+  height: 30px;
+  width: 20px;
+}
