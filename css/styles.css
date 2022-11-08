@@ -43,6 +43,9 @@ h1 {
   text-align: center;
   margin: 25px 50px 25px 230px;
 }
+#portfolio img {
+  cursor: pointer;
+}
 #contact-us {
   background: url(c_image.jpg)no-repeat center;
   background-size: cover;
@@ -112,6 +115,7 @@ input[type="text"] {
 #Social_icons {
   height: 30px;
   width:200px;
+  display: inline-block !important;
 } 
 
  #Social_icon {
