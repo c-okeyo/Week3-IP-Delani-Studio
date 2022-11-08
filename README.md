@@ -13,7 +13,7 @@ Chris Okeyo
 
 ## Setup instructions
 
-- git clone [https://github.com/c-okeyo/week2_IP_Web_Application.git]()
+- git clone [https://github.com/c-okeyo/Week3-IP-Delani-Studio.git]()
 - Open the code with favorite editor
 - Go Live
 
@@ -25,7 +25,7 @@ Chris Okeyo
 
 ## Live Link
 
-[https://c-okeyo.github.io/week2_IP_Web_Application]()/
+[https://c-okeyo.github.io/]()[Week3-IP-Delani-Studio](https://github.com/c-okeyo/Week3-IP-Delani-Studio)/
 
 ## Technologies used
 
