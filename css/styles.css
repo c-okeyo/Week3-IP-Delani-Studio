@@ -98,9 +98,14 @@ input[type="text"] {
   height: 200px; ;
   width:81%
   }
-  #feedback{
+#feedback{
     display: none;
   }
-  button{
-    color: aliceblue;
+.button{
+    background-color:#d32222;
+    color: #d32222;
   }
+.button:hover {
+    background-color:#da2626;
+    transition: 0.7s;
+}

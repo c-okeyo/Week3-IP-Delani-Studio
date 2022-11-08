@@ -14,6 +14,6 @@ $(document).ready(function () {
 });
 $(document).ready(function () {
   $("#blanks form").submit(function () {
-    $("#story").show();
+    $("#feedback").show();
   });
 });
