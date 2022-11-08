@@ -25,7 +25,7 @@ Chris Okeyo
 
 ## Live Link
 
-[https://c-okeyo.github.io/]()[Week3-IP-Delani-Studio](https://github.com/c-okeyo/Week3-IP-Delani-Studio)/
+[https://c-okeyo.github.io/Week3-IP-Delani-Studio/](https://c-okeyo.github.io/Week3-IP-Delani-Studio/)
 
 ## Technologies used
 
