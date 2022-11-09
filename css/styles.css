@@ -122,3 +122,13 @@ input[type="text"] {
   line-height: 0px;
   text-transform: uppercase;
 }
+.form-submit-button {
+  background: #e3afbf;
+  color: #fff;
+  border: 1px solid #eee;
+  height: 50px;
+  width: 90px;
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px #eee;
+  text-shadow: none;
+  }
