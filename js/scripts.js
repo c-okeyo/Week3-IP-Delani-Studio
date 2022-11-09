@@ -12,8 +12,3 @@ $(document).ready(function () {
     $("#product-management").show();
   });
 });
-$(document).ready(function () {
-  $("#blanks form").submit(function () {
-    $("#feedback").show();
-  });
-});
