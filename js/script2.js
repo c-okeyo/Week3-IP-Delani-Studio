@@ -10,7 +10,6 @@ $(document).ready(function () {
     let text = document.getElementById("feedback").innerText;
     alert(text);
 
-   
     event.preventDefault();
   });
 });
