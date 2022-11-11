@@ -112,7 +112,7 @@ input[type="text"] {
 #icons {
   height: 30px;
   width: 1000px;
-  margin-left: 11%;
+  margin-left: 10%;
 }
 #socialIcon {
   height: 40x;
@@ -125,7 +125,7 @@ input[type="text"] {
   text-transform: uppercase;
 }
 .form-submit-button {
-  background: #3a3738;
+  background: #4b4848;
   color: rgb(133, 132, 132);
   border:none;
   height: 50px;
