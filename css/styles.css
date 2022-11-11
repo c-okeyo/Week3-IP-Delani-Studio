@@ -117,7 +117,6 @@ input[type="text"] {
 #message-form {
   margin-left: 10%;
   height: 200px;
-  ;
   width: 80%
 }
 
@@ -128,6 +127,7 @@ input[type="text"] {
 #icons {
   height: 30px;
   width: 800px;
+  margin-left: 16%;
 
 }
 
@@ -144,12 +144,12 @@ input[type="text"] {
 }
 
 .form-submit-button {
-  background: #e3afbf;
-  color: #fff;
-  border: 1px solid #eee;
+  background: #3a3738;
+  /* color: #fff; */
+  border:none;
   height: 50px;
   width: 90px;
   border-radius: 20px;
-  box-shadow: 5px 5px 5px #eee;
+  /* box-shadow: 5px 5px 5px #eee; */
   text-shadow: none;
 }
