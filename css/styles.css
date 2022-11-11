@@ -2,6 +2,7 @@ h1 {
   font-size: 25px;
   text-transform: uppercase;
 }
+
 #first-page {
   background: url(h_img.jpg)no-repeat center;
   background-size: cover;
@@ -11,6 +12,7 @@ h1 {
   margin: 25px 50px 25px 30px;
   text-transform: uppercase;
 }
+
 #about-us {
   background: none;
   background-size: cover;
@@ -19,6 +21,7 @@ h1 {
   font-size: 15px;
   margin: 25px 50px 75px 30px;
 }
+
 #services {
   margin: 25px 50px 25px 40px;
   background: url(s_image.jpg)no-repeat center;
@@ -28,6 +31,7 @@ h1 {
   color: aliceblue;
   font-size: 15px;
 }
+
 #what-we-do {
   background: none;
   background-size: cover;
@@ -35,6 +39,7 @@ h1 {
   text-align: center;
   margin: 25px 50px 25px 50px;
 }
+
 #portfolio {
   background: none;
   background-size: cover;
@@ -43,9 +48,11 @@ h1 {
   text-align: center;
   margin: 25px 50px 25px 230px;
 }
+
 #portfolio :hover img {
   cursor: pointer;
 }
+
 #contact-us {
   background: url(c_image.jpg)no-repeat center;
   background-size: cover;
@@ -54,35 +61,44 @@ h1 {
   text-align: center;
   margin: 0px 50px 25px 40px;
 }
+
 #icon {
   height: 120px;
   width: 150px;
 }
+
 .page-offset {
   position: relative;
   top: 25%;
 }
+
 #contact-pg-offset {
   position: relative;
   top: 10%;
   color: aliceblue;
 }
+
 #icon-loaction {
   position: relative;
   bottom: -50%;
 }
+
 #design {
   display: none;
 }
+
 #development {
   display: none;
 }
+
 #product-management {
   display: none;
 }
+
 #what-we-do:hover img {
   cursor: pointer;
 }
+
 input[type="text"] {
   color: white;
   background: rgba(0, 0, 0, 0);
@@ -90,30 +106,34 @@ input[type="text"] {
   outline: none;
   border-style: solid
 }
-#identity{
-  width:80%;
+
+#identity {
+  width: 80%;
   margin-left: 10%;
   margin-bottom: 2%;
   margin-top: 2%;
 }
+
 #message-form {
   margin-left: 10%;
-  height: 200px; ;
-  width:80%
-  }
-#feedback{
-    display: none;
-  }
+  height: 200px;
+  ;
+  width: 80%
+}
 
-#Social_icons {
+#feedback {
+  display: none;
+}
+
+#icons {
   height: 30px;
-  width:200px;
-  
-} 
+  width: 800px;
 
- #Social_icon {
-  height: 10px;
-  width: 10px;
+}
+
+#socialIcon {
+  height: 30x;
+  width: 30px;
 }
 
 #copyright {
@@ -122,6 +142,7 @@ input[type="text"] {
   line-height: 0px;
   text-transform: uppercase;
 }
+
 .form-submit-button {
   background: #e3afbf;
   color: #fff;
@@ -131,4 +152,4 @@ input[type="text"] {
   border-radius: 20px;
   box-shadow: 5px 5px 5px #eee;
   text-shadow: none;
-  }
+}
