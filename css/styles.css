@@ -114,10 +114,12 @@ input[type="text"] {
   margin-top: 2%;
 }
 
-#message-form {
+#messageForm {
+  
   margin-left: 10%;
   height: 200px;
-  width: 80%
+  width: 80%;
+  
 }
 
 #feedback {
