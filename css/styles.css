@@ -2,7 +2,6 @@ h1 {
   font-size: 25px;
   text-transform: uppercase;
 }
-
 #first-page {
   background: url(h_img.jpg)no-repeat center;
   background-size: cover;
@@ -12,7 +11,6 @@ h1 {
   margin: 25px 50px 25px 30px;
   text-transform: uppercase;
 }
-
 #about-us {
   background: none;
   background-size: cover;
@@ -21,7 +19,6 @@ h1 {
   font-size: 15px;
   margin: 25px 50px 75px 30px;
 }
-
 #services {
   margin: 25px 50px 25px 40px;
   background: url(s_image.jpg)no-repeat center;
@@ -31,7 +28,6 @@ h1 {
   color: aliceblue;
   font-size: 15px;
 }
-
 #what-we-do {
   background: none;
   background-size: cover;
@@ -39,7 +35,6 @@ h1 {
   text-align: center;
   margin: 25px 50px 25px 50px;
 }
-
 #portfolio {
   background: none;
   background-size: cover;
@@ -48,11 +43,9 @@ h1 {
   text-align: center;
   margin: 25px 50px 25px 230px;
 }
-
 #portfolio :hover img {
   cursor: pointer;
 }
-
 #contact-us {
   background: url(c_image.jpg)no-repeat center;
   background-size: cover;
@@ -61,17 +54,14 @@ h1 {
   text-align: center;
   margin: 0px 50px 25px 40px;
 }
-
 #icon {
   height: 120px;
   width: 150px;
 }
-
 .page-offset {
   position: relative;
   top: 25%;
 }
-
 #contact-pg-offset {
   position: relative;
   top: 10%;
@@ -82,7 +72,6 @@ h1 {
   position: relative;
   bottom: -50%;
 }
-
 #design {
   display: none;
 }
@@ -90,11 +79,9 @@ h1 {
 #development {
   display: none;
 }
-
 #product-management {
   display: none;
 }
-
 #what-we-do:hover img {
   cursor: pointer;
 }
@@ -106,22 +93,18 @@ input[type="text"] {
   outline: none;
   border-style: solid
 }
-
 #identity {
   width: 80%;
   margin-left: 10%;
   margin-bottom: 2%;
   margin-top: 2%;
 }
-
 #messageForm {
-  
   margin-left: 10%;
   height: 200px;
   width: 80%;
-  
+ 
 }
-
 #feedback {
   display: none;
 }
@@ -130,21 +113,17 @@ input[type="text"] {
   height: 30px;
   width: 800px;
   margin-left: 16%;
-
 }
-
 #socialIcon {
   height: 30x;
   width: 30px;
 }
-
 #copyright {
   text-align: center;
   font-size: smaller;
   line-height: 0px;
   text-transform: uppercase;
 }
-
 .form-submit-button {
   background: #3a3738;
   /* color: #fff; */
