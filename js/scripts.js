@@ -14,10 +14,5 @@ $(document).ready(function () {
     $("#product-management").show();
   });
 
-  $(".#icon8").hover(function(){
-    $("#icon8").css("opacity", 0.5);
-    }, function(){
-    $("#work8").show();
-  });
 });
 
