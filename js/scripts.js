@@ -18,27 +18,52 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $("#workIcon1").hover(function(){
-    $("#work1").show();
+    $("#work1").css("display","block");
+  },
+  function () {
+    $("#work1").css("display","none");
   })
   $("#workIcon2").hover(function(){
-    $("#work2").show();
+    $("#work2").css("display","block");
+  },
+  function () {
+    $("#work2").css("display","none");
   })
   $("#workIcon3").hover(function(){
-    $("#work3").show();
+    $("#work3").css("display","block");
+  },
+  function () {
+    $("#work3").css("display","none");
+  })
   })
   $("#workIcon4").hover(function(){
-    $("#work4").show();
+    $("#work4").css("display","block");
+  },
+  function () {
+    $("#work4").css("display","none");
   })
   $("#workIcon5").hover(function(){
-    $("#work5").show();
+    $("#work5").css("display","block");
+  },
+  function () {
+    $("#work5").css("display","none");
   })
   $("#workIcon6").hover(function(){
-    $("#work6").show();
+    $("#work6").css("display","block");
+  },
+  function () {
+    $("#work6").css("display","none");
   })
   $("#workIcon7").hover(function(){
-    $("#work7").show();
+    $("#work7").css("display","block");
+  },
+  function () {
+    $("#work7").css("display","none");
   })
   $("#workIcon8").hover(function(){
-    $("#work8").show();
-  })
+    $("#work8").css("display","block");
+  },
+  function () {
+    $("#work8").css("display","none");
+
 });

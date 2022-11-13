@@ -53,37 +53,42 @@ h1 {
   text-align: center;
   margin: 25px 50px 25px 230px;
 }
-/* #portfolio :hover img {
+#portfolio :hover img {
   cursor: pointer;
-} */
-
-#work1 {
-  display: none;
 }
 
-
+#work1 {
+  display:none;
+  background-color: white;
+}
 #work2 {
   display: none;
+  background-color: white;
 }
 #work3 {
   display: none;
+  background-color: white;
 }
 #work4 {
   display: none;
+  background-color: white;
 }
 #work5 {
   display: none;
+  background-color: white;
 }
 #work6 {
   display: none;
+  background-color: white;
 }
 #work7 {
   display: none;
+  background-color: white;
 }
 #work8 {
   display: none;
-  
-}
+  background-color: white;
+  }
 
 
 #contact-us {
