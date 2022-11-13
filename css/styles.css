@@ -40,7 +40,9 @@ h1 {
   background-size: cover;
   /* height: 150px; */
   text-align: center;
-  margin: 25px 50px 25px 50px;
+  /* margin: 25px 50px 25px 50px; */
+  margin-left: 17%;
+  width: 800px;
 }
 
 #portfolio {
