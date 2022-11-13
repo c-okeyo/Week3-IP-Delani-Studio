@@ -53,10 +53,15 @@ h1 {
   text-align: center;
   margin: 25px 50px 25px 230px;
 }
+#portfolio :hover img {
+  cursor: pointer;
+}
 
 #work1 {
   display: none;
 }
+
+
 #work2 {
   display: none;
 }
@@ -79,9 +84,7 @@ h1 {
   display: none;
   
 }
-#portfolio :hover img {
-  cursor: pointer;
-}
+
 
 #contact-us {
   background: url(c_image.jpg)no-repeat center;
